@@ -1,4 +1,4 @@
-# PlaceKit
+# VideoKit
 
 A tool for placing temporary videos. This tool is similar to [Placehold](https://placehold.co/), except the tool will use specified videos from [BrickMMO Media](https://media.brickmmo.com/).
 
